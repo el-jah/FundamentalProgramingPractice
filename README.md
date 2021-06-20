@@ -1,1 +1,1 @@
-# JavaFundamentalProgramingPractice
+# FundamentalProgramingPractice
